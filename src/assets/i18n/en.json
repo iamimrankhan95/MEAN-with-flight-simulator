@@ -1,0 +1,10 @@
+{
+  "HOME": {
+    "SELECT": "Change language",
+    "title": "{{title}} app is running!"
+  },
+  "flight-simulator-form": {
+    "form-header": "Form for the User Input"
+  },
+  "Filter according to your budget: ": "Filter according to your budget: "
+}

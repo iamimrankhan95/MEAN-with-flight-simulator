@@ -1,0 +1,10 @@
+{
+  "HOME": {
+    "SELECT": "ভাষা পরিবর্তন করুন",
+    "title": "{{title}} অ্যাপ চলছে!"
+  },
+  "flight-simulator-form": {
+    "form-header": "ব্যবহারকারীর ইনপুটের জন্য ফরম"
+  },
+  "Filter according to your budget: ":"আপনার বাজেট অনুযায়ী ফিল্টার করুন: "
+}

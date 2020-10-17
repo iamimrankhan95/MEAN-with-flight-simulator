@@ -1,0 +1,125 @@
+<div class=" animated fadeIn">
+  <div class="row">
+    <div class="col-sm-6 col-md-6 offset-3">
+      <div class="card">
+        <div class="card-header">
+          <i class="fa fa-check"></i>{{'flight-simulator-form.form-header' | translate}}
+        </div>
+        <div class="card-body">
+          <form class="needs-validation" name="flightFrm" role="form" novalidate (ngSubmit)="onSubmit()"
+            [formGroup]="flightFrm">
+            <fieldset>
+              <legend>
+                <h5>Flight Information</h5>
+              </legend>
+              <div class="form-row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="field_DepartureAirportCode">Departure airport code<span
+                        class="text-danger">*</span></label>
+                    <input type="text" class="form-control" name="DepartureAirportCode" id="field_DepartureAirportCode"
+                      formControlName="DepartureAirportCode"
+                      [ngClass]="{ 'is-invalid': isFlightFormSubmitted && flightFrm.get('DepartureAirportCode').errors,
+                      'is-valid': flightFrm.get('DepartureAirportCode').touched && !flightFrm.get('DepartureAirportCode').errors }" />
+                    <div *ngIf="isFlightFormSubmitted && flightFrm.get('DepartureAirportCode').errors"
+                      class="invalid-feedback">
+                      <div *ngIf="flightFrm.get('DepartureAirportCode')?.errors?.required">
+                        Departure airport code is required.
+                      </div>
+                      <div
+                        *ngIf="flightFrm.get('DepartureAirportCode')?.errors?.maxlength || flightFrm.get('DepartureAirportCode')?.errors?.minlength">
+                        Code length can only be 3.
+                      </div>
+                      <div *ngIf="flightFrm.get('DepartureAirportCode')?.errors?.pattern">
+                        Code value can only be Alphanumeric.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="field_ArrivalAirportCode">Arrival airport code<span
+                        class="text-danger">*</span></label>
+                    <input type="text" class="form-control" name="ArrivalAirportCode" id="field_ArrivalAirportCode"
+                      formControlName="ArrivalAirportCode" [ngClass]="{ 'is-invalid': isFlightFormSubmitted && flightFrm.get('ArrivalAirportCode').errors,
+											'is-valid': flightFrm.get('ArrivalAirportCode').touched && !flightFrm.get('ArrivalAirportCode').errors }" />
+                    <div *ngIf="isFlightFormSubmitted && flightFrm.get('ArrivalAirportCode').errors"
+                      class="invalid-feedback">
+                      <div *ngIf="flightFrm.get('ArrivalAirportCode')?.errors?.required">
+                        Arrival airport code is required.
+                      </div>
+                      <div
+                        *ngIf="flightFrm.get('ArrivalAirportCode')?.errors?.maxlength || flightFrm.get('ArrivalAirportCode')?.errors?.minlength">
+                        Code length can only be 3.
+                      </div>
+                      <div *ngIf="flightFrm.get('ArrivalAirportCode')?.errors?.pattern">
+                        Code value can only be Alphanumeric.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="field_DepartureDate">Departure date<span
+                        class="text-danger">*</span></label>
+                    <div class="input-group">
+                      <input id="field_DepartureDate" type="text" class="form-control" name="DepartureDate"
+                        formControlName="DepartureDate" placeholder="dd/mm/yyyy" (click)="DepartureDate.toggle()"
+                        ngbDatepicker #DepartureDate="ngbDatepicker" [minDate]="fromMinDate" [maxDate]="fromMaxDate"
+                        [ngClass]="{ 'is-invalid': isFlightFormSubmitted && flightFrm.get('DepartureDate').errors,
+                    'is-valid': flightFrm.get('DepartureDate').touched && !flightFrm.get('DepartureDate').errors }" />
+                      <div class="input-group-append">
+                        <button class="btn btn-outline-secondary fa fa-calendar fa-lg" (click)="DepartureDate.toggle()"
+                          type="button">
+                        </button>
+                      </div>
+                      <div *ngIf="isFlightFormSubmitted && flightFrm.get('DepartureDate').errors"
+                        class="invalid-feedback">
+                        <div *ngIf="flightFrm.get('DepartureDate')?.errors?.required">
+                          Departure Date is required.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label class="form-control-label" for="field_ReturnDate">Return date<span
+                        class="text-danger">*</span></label>
+                    <div class="input-group">
+                      <input id="field_ReturnDate" type="text" class="form-control" name="ReturnDate"
+                        formControlName="ReturnDate" placeholder="dd/mm/yyyy" (click)="ReturnDate.toggle()"
+                        ngbDatepicker #ReturnDate="ngbDatepicker" [minDate]="fromMinDate" [maxDate]="fromMaxDate"
+                        [ngClass]="{ 'is-invalid': isFlightFormSubmitted && flightFrm.get('ReturnDate').errors,
+                    'is-valid': flightFrm.get('ReturnDate').touched && !flightFrm.get('ReturnDate').errors }" />
+                      <div class="input-group-append">
+                        <button class="btn btn-outline-secondary fa fa-calendar fa-lg" (click)="ReturnDate.toggle()"
+                          type="button">
+                        </button>
+                      </div>
+                      <div *ngIf="isFlightFormSubmitted && flightFrm.get('ReturnDate').errors" class="invalid-feedback">
+                        <div *ngIf="flightFrm.get('ReturnDate')?.errors?.required">
+                          Return Date Date is required.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </fieldset>
+            <button type="button" id="cancel-save" class="btn btn-secondary" (click)="reset()">
+              <span>Reset</span>
+            </button>
+
+            <button type="submit" id="save-entity" class="btn btn-primary">
+              <span>Find</span>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <!--/.col-->
+  </div>
+</div>
