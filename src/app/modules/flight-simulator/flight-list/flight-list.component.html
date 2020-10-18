@@ -1,30 +1,38 @@
 <div class="animated fadeIn">
   <div class="row">
     <div class="col-sm-10 col-md-10 offset-1">
-
       <div class="card">
         <div class="card-header">
           <b>Flights</b>
+          <div class="pull-right">
+            <button type="button" routerLink="/home/flight-simulator/create" class="btn btn-primary btn-sm"><i
+                class="fa fa-create"></i>
+              {{'Add Flight' | translate}}</button>
+          </div>
         </div>
         <div class="card-body">
           <div class="row pb-4 pt-4"
             style="background-color: rgb(211,211,211,0.3);display: flex;display: flex;justify-content: space-evenly">
             <div class="col-md-10">
               <div class="d-flex justify-content-center form-inline">
-                <label>{{"Filter according to your budget: " | translate}}&nbsp;<input type="number" class="form-control"
-                  [(ngModel)]="minAmount" placeholder="Min" />
-                <input type="number" class="form-control" [(ngModel)]="maxAmount" placeholder="Max" /></label>
-              <button type="button" class="btn btn-primary" (click)="filter()">
-                <span>Filter</span>&nbsp;
-              </button>
-              <button type="button" class="btn btn-danger" (click)="clearFilter()">
-                <span>Clear Filter</span>
-              </button>
+                <label>{{"Filter according to your budget: " | translate}}&nbsp;<input type="number"
+                    class="form-control" [(ngModel)]="minAmount" placeholder="Min" />
+                  <input type="number" class="form-control" [(ngModel)]="maxAmount" placeholder="Max" /></label>
+                <button type="button" class="btn btn-primary" (click)="filter()">
+                  <span>Filter</span>&nbsp;
+                </button>
+                <button type="button" class="btn btn-danger" (click)="clearFilter()">
+                  <span>Clear Filter</span>
+                </button>
               </div>
             </div>
           </div>
           <div class="row mb-3 mt-1">
-            <div class="col-md-4 offset-md-8">
+            <div class="col-md-6">
+              <span class="font-weight-bold"><i class="cui-list"></i>
+                {{'Total' | translate}}: {{filteredFlights?.length}}</span>
+            </div>
+            <div class="col-md-4 offset-md-2">
               <div class="input-group">
                 <div class="input-group-prepend">
                   <span class="input-group-text"><i class="fa fa-search"></i></span>
