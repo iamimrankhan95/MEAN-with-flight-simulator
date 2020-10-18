@@ -6,7 +6,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 2903.84
+    "TotalAmount": 2903.84,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -15,7 +19,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 2954.14
+    "TotalAmount": 2954.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -24,7 +32,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 2954.14
+    "TotalAmount": 2954.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -33,7 +45,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 2979.06
+    "TotalAmount": 2979.06,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -42,7 +58,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -51,7 +71,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -60,7 +84,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -69,7 +97,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -78,7 +110,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -87,7 +123,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -96,7 +136,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -105,7 +149,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3006.14
+    "TotalAmount": 3006.14,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -114,7 +162,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 3015.6
+    "TotalAmount": 3015.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -123,7 +175,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -132,7 +188,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -141,7 +201,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -150,7 +214,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -159,7 +227,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -168,7 +240,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -177,7 +253,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -186,7 +266,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -195,7 +279,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -204,7 +292,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -213,7 +305,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -222,7 +318,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3040.82
+    "TotalAmount": 3040.82,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -231,7 +331,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3225.97
+    "TotalAmount": 3225.97,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -240,7 +344,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3225.97
+    "TotalAmount": 3225.97,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -249,7 +357,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3260.65
+    "TotalAmount": 3260.65,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -258,7 +370,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 3860.48
+    "TotalAmount": 3860.48,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -267,7 +383,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3915.69
+    "TotalAmount": 3915.69,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -276,7 +396,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3915.69
+    "TotalAmount": 3915.69,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -285,7 +409,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 4105.13
+    "TotalAmount": 4105.13,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -294,7 +422,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 4200.81
+    "TotalAmount": 4200.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -303,7 +435,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 4200.81
+    "TotalAmount": 4200.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -312,7 +448,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 4290.03
+    "TotalAmount": 4290.03,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -321,7 +461,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 4344.24
+    "TotalAmount": 4344.24,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -330,7 +474,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 4344.24
+    "TotalAmount": 4344.24,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -339,7 +487,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4561.86
+    "TotalAmount": 4561.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -348,7 +500,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4622.5
+    "TotalAmount": 4622.5,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -357,7 +513,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4766.95
+    "TotalAmount": 4766.95,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -366,7 +526,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4766.95
+    "TotalAmount": 4766.95,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -375,7 +539,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4766.95
+    "TotalAmount": 4766.95,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -384,7 +552,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4766.95
+    "TotalAmount": 4766.95,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -393,7 +565,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4773.62
+    "TotalAmount": 4773.62,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -402,7 +578,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4801.63
+    "TotalAmount": 4801.63,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -411,7 +591,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:55",
     "Stops": 2,
-    "TotalAmount": 4801.63
+    "TotalAmount": 4801.63,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -420,7 +604,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 1,
-    "TotalAmount": 5409.6
+    "TotalAmount": 5409.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -429,7 +617,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 1,
-    "TotalAmount": 5431.45
+    "TotalAmount": 5431.45,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -438,7 +630,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 1,
-    "TotalAmount": 5431.45
+    "TotalAmount": 5431.45,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -447,7 +643,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 1,
-    "TotalAmount": 5453.3
+    "TotalAmount": 5453.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -456,7 +656,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 3007.84
+    "TotalAmount": 3007.84,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -465,7 +669,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 3260.65
+    "TotalAmount": 3260.65,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -474,7 +682,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3260.65
+    "TotalAmount": 3260.65,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif",
@@ -483,7 +695,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 3260.65
+    "TotalAmount": 3260.65,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -492,7 +708,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "38:20",
     "Stops": 2,
-    "TotalAmount": 3705.84
+    "TotalAmount": 3705.84,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -501,7 +721,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "38:20",
     "Stops": 2,
-    "TotalAmount": 3810.84
+    "TotalAmount": 3810.84,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -510,7 +734,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "38:20",
     "Stops": 2,
-    "TotalAmount": 3818.6
+    "TotalAmount": 3818.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -519,7 +747,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:45",
     "Stops": 3,
-    "TotalAmount": 4721.16
+    "TotalAmount": 4721.16,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -528,7 +760,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 3,
-    "TotalAmount": 4747.66
+    "TotalAmount": 4747.66,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -537,7 +773,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 3,
-    "TotalAmount": 4747.66
+    "TotalAmount": 4747.66,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -546,7 +786,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 3,
-    "TotalAmount": 4747.66
+    "TotalAmount": 4747.66,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -555,7 +799,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 3,
-    "TotalAmount": 4747.66
+    "TotalAmount": 4747.66,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -564,7 +812,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 3,
-    "TotalAmount": 4756.45
+    "TotalAmount": 4756.45,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -573,7 +825,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 3,
-    "TotalAmount": 4756.45
+    "TotalAmount": 4756.45,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -582,7 +838,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 3,
-    "TotalAmount": 4795.26
+    "TotalAmount": 4795.26,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -591,7 +851,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 3,
-    "TotalAmount": 4795.26
+    "TotalAmount": 4795.26,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -600,7 +864,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "38:20",
     "Stops": 2,
-    "TotalAmount": 4907.13
+    "TotalAmount": 4907.13,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -609,7 +877,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:45",
     "Stops": 3,
-    "TotalAmount": 4967.16
+    "TotalAmount": 4967.16,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/NZ.gif",
@@ -618,7 +890,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "34:00",
     "Stops": 2,
-    "TotalAmount": 5024.28
+    "TotalAmount": 5024.28,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -627,52 +903,76 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5046.62
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
-    "AirlineName": "Multi",
-    "InboundFlightsDuration": "26:20",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 5046.62
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
-    "AirlineName": "British Airways",
-    "InboundFlightsDuration": "24:00",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 5068.47
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
-    "AirlineName": "British Airways",
-    "InboundFlightsDuration": "26:20",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 5068.47
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
-    "AirlineName": "Multi",
-    "InboundFlightsDuration": "24:00",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "27:20",
-    "Stops": 2,
-    "TotalAmount": 5070.63
+    "TotalAmount": 5046.62,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
     "AirlineName": "Multi",
     "InboundFlightsDuration": "26:20",
     "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 5046.62,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
+    "AirlineName": "British Airways",
+    "InboundFlightsDuration": "24:00",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 5068.47,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
+    "AirlineName": "British Airways",
+    "InboundFlightsDuration": "26:20",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 5068.47,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
+    "AirlineName": "Multi",
+    "InboundFlightsDuration": "24:00",
+    "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5070.63
+    "TotalAmount": 5070.63,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
+    "AirlineName": "Multi",
+    "InboundFlightsDuration": "26:20",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "27:20",
+    "Stops": 2,
+    "TotalAmount": 5070.63,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -681,7 +981,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -690,7 +994,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -699,7 +1007,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -708,7 +1020,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -717,7 +1033,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -726,7 +1046,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -735,7 +1059,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -744,7 +1072,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -753,7 +1085,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -762,7 +1098,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5091.81
+    "TotalAmount": 5091.81,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -771,7 +1111,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:45",
     "Stops": 3,
-    "TotalAmount": 5122.52
+    "TotalAmount": 5122.52,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -780,7 +1124,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:45",
     "Stops": 3,
-    "TotalAmount": 5150.71
+    "TotalAmount": 5150.71,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -789,7 +1137,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "34:00",
     "Stops": 2,
-    "TotalAmount": 5194.7
+    "TotalAmount": 5194.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -798,7 +1150,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 5223.05
+    "TotalAmount": 5223.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -807,7 +1163,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 5223.05
+    "TotalAmount": 5223.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -816,7 +1176,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5409.6
+    "TotalAmount": 5409.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -825,7 +1189,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5431.45
+    "TotalAmount": 5431.45,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -834,7 +1202,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5431.98
+    "TotalAmount": 5431.98,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -843,7 +1215,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5431.98
+    "TotalAmount": 5431.98,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -852,7 +1228,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5431.98
+    "TotalAmount": 5431.98,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -861,7 +1241,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5431.98
+    "TotalAmount": 5431.98,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -870,7 +1254,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 2,
-    "TotalAmount": 5337.8
+    "TotalAmount": 5337.8,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -879,7 +1267,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5433.61
+    "TotalAmount": 5433.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -888,7 +1280,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "34:00",
     "Stops": 2,
-    "TotalAmount": 5439.7
+    "TotalAmount": 5439.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -897,7 +1293,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5453.83
+    "TotalAmount": 5453.83,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -906,7 +1306,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5453.83
+    "TotalAmount": 5453.83,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -915,7 +1319,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5453.83
+    "TotalAmount": 5453.83,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -924,7 +1332,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5453.83
+    "TotalAmount": 5453.83,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -933,7 +1345,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -942,7 +1358,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -951,7 +1371,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -960,7 +1384,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -969,7 +1397,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -978,7 +1410,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -987,7 +1423,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -996,7 +1436,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1005,7 +1449,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1014,7 +1462,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5454.79
+    "TotalAmount": 5454.79,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1023,7 +1475,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5455.46
+    "TotalAmount": 5455.46,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -1032,7 +1488,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5455.99
+    "TotalAmount": 5455.99,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -1041,7 +1501,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5455.99
+    "TotalAmount": 5455.99,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -1050,7 +1514,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5455.99
+    "TotalAmount": 5455.99,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -1059,7 +1527,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5455.99
+    "TotalAmount": 5455.99,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1068,7 +1540,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5456.67
+    "TotalAmount": 5456.67,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1077,7 +1553,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5456.67
+    "TotalAmount": 5456.67,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1086,7 +1566,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5456.67
+    "TotalAmount": 5456.67,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1095,7 +1579,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5456.67
+    "TotalAmount": 5456.67,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1104,7 +1592,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5476.64
+    "TotalAmount": 5476.64,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1113,7 +1605,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5476.64
+    "TotalAmount": 5476.64,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1122,7 +1618,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5476.64
+    "TotalAmount": 5476.64,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1131,7 +1631,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5476.64
+    "TotalAmount": 5476.64,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1140,7 +1644,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5476.64
+    "TotalAmount": 5476.64,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1149,7 +1657,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1158,7 +1670,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1167,7 +1683,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1176,7 +1696,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1185,7 +1709,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1194,7 +1722,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1203,7 +1735,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1212,7 +1748,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1221,7 +1761,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1230,7 +1774,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1239,7 +1787,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1248,7 +1800,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1257,7 +1813,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1266,7 +1826,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1275,7 +1839,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1284,7 +1852,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1293,7 +1865,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1302,7 +1878,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1311,7 +1891,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1320,7 +1904,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5477.17
+    "TotalAmount": 5477.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1329,7 +1917,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5478.52
+    "TotalAmount": 5478.52,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1338,7 +1930,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5478.52
+    "TotalAmount": 5478.52,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1347,7 +1943,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5478.52
+    "TotalAmount": 5478.52,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1356,7 +1956,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5478.52
+    "TotalAmount": 5478.52,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1365,7 +1969,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5480.68
+    "TotalAmount": 5480.68,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1374,7 +1982,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5480.68
+    "TotalAmount": 5480.68,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1383,7 +1995,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5480.68
+    "TotalAmount": 5480.68,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1392,7 +2008,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5480.68
+    "TotalAmount": 5480.68,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1401,7 +2021,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1410,7 +2034,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1419,7 +2047,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1428,7 +2060,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1437,7 +2073,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1446,7 +2086,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1455,7 +2099,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1464,7 +2112,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1473,7 +2125,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1482,7 +2138,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1491,7 +2151,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1500,7 +2164,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1509,7 +2177,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1518,7 +2190,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1527,7 +2203,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1536,7 +2216,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1545,7 +2229,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1554,7 +2242,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1563,7 +2255,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/BA.gif",
@@ -1572,7 +2268,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5501.86
+    "TotalAmount": 5501.86,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1581,7 +2281,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "34:00",
     "Stops": 2,
-    "TotalAmount": 5596.06
+    "TotalAmount": 5596.06,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1590,7 +2294,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "34:00",
     "Stops": 2,
-    "TotalAmount": 5624.25
+    "TotalAmount": 5624.25,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1599,7 +2307,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1608,7 +2320,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1617,7 +2333,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1626,7 +2346,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1635,7 +2359,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1644,7 +2372,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5733.61
+    "TotalAmount": 5733.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1653,7 +2385,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 5836.71
+    "TotalAmount": 5836.71,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1662,7 +2398,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5860.05
+    "TotalAmount": 5860.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1671,7 +2411,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 5860.05
+    "TotalAmount": 5860.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1680,7 +2424,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5860.05
+    "TotalAmount": 5860.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1689,7 +2437,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 5860.05
+    "TotalAmount": 5860.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1698,7 +2450,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 5860.05
+    "TotalAmount": 5860.05,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1707,7 +2463,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:40",
     "Stops": 2,
-    "TotalAmount": 5865.34
+    "TotalAmount": 5865.34,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1716,7 +2476,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:40",
     "Stops": 2,
-    "TotalAmount": 5865.34
+    "TotalAmount": 5865.34,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1725,7 +2489,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5901.61
+    "TotalAmount": 5901.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1734,7 +2502,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:20",
     "Stops": 2,
-    "TotalAmount": 5901.61
+    "TotalAmount": 5901.61,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1743,7 +2515,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 6122.83
+    "TotalAmount": 6122.83,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1752,7 +2528,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6146.17
+    "TotalAmount": 6146.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1761,7 +2541,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6146.17
+    "TotalAmount": 6146.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1770,7 +2554,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 6146.17
+    "TotalAmount": 6146.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1779,7 +2567,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 6146.17
+    "TotalAmount": 6146.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1788,7 +2580,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 6146.17
+    "TotalAmount": 6146.17,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -1797,52 +2593,76 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:30",
     "Stops": 2,
-    "TotalAmount": 6189.77
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
-    "AirlineName": "Qantas",
-    "InboundFlightsDuration": "26:20",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 6189.77
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
-    "AirlineName": "Multi",
-    "InboundFlightsDuration": "24:00",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 6211.62
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
-    "AirlineName": "Multi",
-    "InboundFlightsDuration": "26:20",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "23:30",
-    "Stops": 2,
-    "TotalAmount": 6211.62
-  },
-  {
-    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
-    "AirlineName": "Qantas",
-    "InboundFlightsDuration": "24:00",
-    "ItineraryId": "",
-    "OutboundFlightsDuration": "27:20",
-    "Stops": 2,
-    "TotalAmount": 6213.78
+    "TotalAmount": 6189.77,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
     "AirlineName": "Qantas",
     "InboundFlightsDuration": "26:20",
     "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 6189.77,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
+    "AirlineName": "Multi",
+    "InboundFlightsDuration": "24:00",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 6211.62,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
+    "AirlineName": "Multi",
+    "InboundFlightsDuration": "26:20",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "23:30",
+    "Stops": 2,
+    "TotalAmount": 6211.62,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
+    "AirlineName": "Qantas",
+    "InboundFlightsDuration": "24:00",
+    "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6213.78
+    "TotalAmount": 6213.78,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
+  },
+  {
+    "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
+    "AirlineName": "Qantas",
+    "InboundFlightsDuration": "26:20",
+    "ItineraryId": "",
+    "OutboundFlightsDuration": "27:20",
+    "Stops": 2,
+    "TotalAmount": 6213.78,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1851,7 +2671,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1860,7 +2684,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1869,7 +2697,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1878,7 +2710,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1887,7 +2723,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1896,7 +2736,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "27:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1905,7 +2749,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "28:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -1914,7 +2762,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "29:20",
     "Stops": 2,
-    "TotalAmount": 6234.96
+    "TotalAmount": 6234.96,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1923,7 +2775,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3730.4
+    "TotalAmount": 3730.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1932,7 +2788,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3730.4
+    "TotalAmount": 3730.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1941,7 +2801,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3738.9
+    "TotalAmount": 3738.9,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1950,7 +2814,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3738.9
+    "TotalAmount": 3738.9,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1959,7 +2827,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3738.9
+    "TotalAmount": 3738.9,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1968,7 +2840,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3738.9
+    "TotalAmount": 3738.9,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1977,7 +2853,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1986,7 +2866,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -1995,7 +2879,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2004,7 +2892,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2013,7 +2905,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2022,7 +2918,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2031,7 +2931,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2040,7 +2944,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2049,7 +2957,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2058,7 +2970,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2067,7 +2983,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2076,7 +2996,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2085,7 +3009,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
@@ -2094,7 +3022,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:65",
     "Stops": 3,
-    "TotalAmount": 3762.0
+    "TotalAmount": 3762,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2103,7 +3035,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4139.8
+    "TotalAmount": 4139.8,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2112,7 +3048,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4139.8
+    "TotalAmount": 4139.8,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2121,7 +3061,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4139.8
+    "TotalAmount": 4139.8,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2130,7 +3074,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4280.2
+    "TotalAmount": 4280.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2139,7 +3087,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4280.2
+    "TotalAmount": 4280.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2148,7 +3100,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2157,7 +3113,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2166,7 +3126,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2175,7 +3139,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2184,7 +3152,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2193,7 +3165,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 3,
-    "TotalAmount": 4509.6
+    "TotalAmount": 4509.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2202,7 +3178,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2211,7 +3191,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2220,7 +3204,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2229,7 +3217,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2238,7 +3230,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2247,7 +3243,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2256,7 +3256,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2265,7 +3269,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2274,7 +3282,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2283,7 +3295,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4687.4
+    "TotalAmount": 4687.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2292,7 +3308,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2301,7 +3321,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2310,7 +3334,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2319,7 +3347,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2328,7 +3360,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2337,7 +3373,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2346,7 +3386,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2355,7 +3399,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "26:50",
     "Stops": 2,
-    "TotalAmount": 4691.4
+    "TotalAmount": 4691.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/KE.gif",
@@ -2364,7 +3412,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "23:25",
     "Stops": 2,
-    "TotalAmount": 4711.899
+    "TotalAmount": 4711.899,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2373,7 +3425,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2382,7 +3438,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2391,7 +3451,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2400,7 +3464,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2409,7 +3477,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2418,7 +3490,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2427,7 +3503,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2436,7 +3516,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2445,7 +3529,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2454,7 +3542,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2463,7 +3555,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2472,7 +3568,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2481,7 +3581,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2490,7 +3594,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2499,7 +3607,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 4929.4
+    "TotalAmount": 4929.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2508,7 +3620,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 5065.4
+    "TotalAmount": 5065.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2517,7 +3633,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 5065.4
+    "TotalAmount": 5065.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -2526,7 +3646,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 5065.4
+    "TotalAmount": 5065.4,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2535,7 +3659,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6666.3
+    "TotalAmount": 6666.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2544,7 +3672,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6666.3
+    "TotalAmount": 6666.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2553,7 +3685,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6666.3
+    "TotalAmount": 6666.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2562,7 +3698,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6670.1
+    "TotalAmount": 6670.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2571,7 +3711,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6670.1
+    "TotalAmount": 6670.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QR.gif",
@@ -2580,7 +3724,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "21:65",
     "Stops": 2,
-    "TotalAmount": 6670.1
+    "TotalAmount": 6670.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/LH.gif",
@@ -2589,7 +3737,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:65",
     "Stops": 3,
-    "TotalAmount": 9238.299
+    "TotalAmount": 9238.299,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/LH.gif",
@@ -2598,7 +3750,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:65",
     "Stops": 3,
-    "TotalAmount": 9238.299
+    "TotalAmount": 9238.299,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/LH.gif",
@@ -2607,7 +3763,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:65",
     "Stops": 3,
-    "TotalAmount": 9238.299
+    "TotalAmount": 9238.299,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/LH.gif",
@@ -2616,7 +3776,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:65",
     "Stops": 3,
-    "TotalAmount": 9312.898
+    "TotalAmount": 9312.898,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/TG.gif",
@@ -2625,7 +3789,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 11997.3
+    "TotalAmount": 11997.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/TG.gif",
@@ -2634,7 +3802,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 11997.3
+    "TotalAmount": 11997.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2643,7 +3815,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2652,7 +3828,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2661,7 +3841,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2670,7 +3854,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2679,7 +3867,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2688,7 +3880,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2697,7 +3893,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2706,7 +3906,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2715,7 +3919,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2724,7 +3932,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2733,7 +3945,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2742,7 +3958,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2751,7 +3971,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2760,7 +3984,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2769,7 +3997,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -2778,7 +4010,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12448.7
+    "TotalAmount": 12448.7,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2787,7 +4023,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2796,7 +4036,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2805,7 +4049,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2814,7 +4062,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2823,7 +4075,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2832,7 +4088,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2841,7 +4101,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2850,7 +4114,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12797.1
+    "TotalAmount": 12797.1,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2859,7 +4127,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12811.0
+    "TotalAmount": 12811,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2868,7 +4140,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12811.0
+    "TotalAmount": 12811,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2877,7 +4153,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12811.0
+    "TotalAmount": 12811,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2886,7 +4166,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2895,7 +4179,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2904,7 +4192,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2913,7 +4205,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2922,7 +4218,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2931,7 +4231,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2940,7 +4244,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2949,7 +4257,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2958,7 +4270,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2967,7 +4283,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2976,7 +4296,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2985,7 +4309,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -2994,7 +4322,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3003,7 +4335,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3012,7 +4348,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3021,7 +4361,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 12812.6
+    "TotalAmount": 12812.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3030,7 +4374,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3039,7 +4387,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3048,7 +4400,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3057,7 +4413,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3066,7 +4426,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3075,7 +4439,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3084,7 +4452,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3093,7 +4465,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 12921.2
+    "TotalAmount": 12921.2,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3102,7 +4478,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 13421.6
+    "TotalAmount": 13421.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3111,7 +4491,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 13421.6
+    "TotalAmount": 13421.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3120,7 +4504,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 13421.6
+    "TotalAmount": 13421.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3129,7 +4517,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:30",
     "Stops": 2,
-    "TotalAmount": 13421.6
+    "TotalAmount": 13421.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3138,7 +4530,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3147,7 +4543,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3156,7 +4556,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3165,7 +4569,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3174,7 +4582,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3183,7 +4595,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3192,7 +4608,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3201,7 +4621,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3210,7 +4634,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "24:80",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/QF.gif",
@@ -3219,7 +4647,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "25:25",
     "Stops": 3,
-    "TotalAmount": 14919.3
+    "TotalAmount": 14919.3,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3228,7 +4660,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15545.0
+    "TotalAmount": 15545,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3237,7 +4673,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15545.0
+    "TotalAmount": 15545,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3246,7 +4686,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15545.0
+    "TotalAmount": 15545,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif",
@@ -3255,7 +4699,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15545.0
+    "TotalAmount": 15545,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3264,7 +4712,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3273,7 +4725,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3282,7 +4738,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3291,7 +4751,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3300,7 +4764,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3309,7 +4777,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3318,7 +4790,11 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   },
   {
     "AirlineLogoAddress": "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CX.gif",
@@ -3327,6 +4803,10 @@
     "ItineraryId": "",
     "OutboundFlightsDuration": "22:60",
     "Stops": 2,
-    "TotalAmount": 15546.6
+    "TotalAmount": 15546.6,
+    "DepartureAirportCode": "DHK",
+    "ArrivalAirportCode": "CHT",
+    "DepartureDate": "2012-12-24T00:00:00+11:00",
+    "ReturnDate": "2013-01-03T00:00:00+11:00"
   }
 ]
