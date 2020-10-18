@@ -54,7 +54,7 @@ export class FlightListComponent implements OnInit {
             (as: any) => {
 
             }
-          )
+          );
       }
     );
   }
