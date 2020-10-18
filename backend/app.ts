@@ -28,7 +28,7 @@ app.use((req, res, next) => {
 app.post('/api/test', (req, res, next) => {
   console.log('post', req.body);
 });
-
+// O4erKVjU1cpfH2iG
 app.get('/api/test', (req, res, next) => {
   const response: ServerResponse = { info: 'd', id: 1, message: 'asdf', responseList: [], responseObject: {}, status: '200' };
   return res.status(200).json(
