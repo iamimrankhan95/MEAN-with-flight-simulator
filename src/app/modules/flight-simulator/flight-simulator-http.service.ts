@@ -1,4 +1,3 @@
-import { ServerResponse } from './../../shared/models/dto/serverResponse';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { HttpHeaders } from '@angular/common/http';
@@ -45,7 +44,7 @@ export class FlightSimulatorHttpService {
       .pipe(
         tap((flightSimulatorResponseObjectList: FlightSimulatorResponseObject[]) => {
           if (flightSimulatorResponseObjectList) {
-            this.toastr.success('Flight List loaded successfully!', 'Success');
+            this.toastr.success('Flight List loaded successfully!', 'Success')
           }
           console.log(flightSimulatorResponseObjectList);
         }),
@@ -53,13 +52,6 @@ export class FlightSimulatorHttpService {
           return flightSimulatorResponseObjectList;
         }),
         catchError(this.handleError('getFlightSimulatorResponseObjects', []))
-      );
-  }
-
-  test(flightSimulatorRequest: FlightSimulatorRequest): Observable<ServerResponse | {}> {
-    return this.http.get<ServerResponse | {}>('http://localhost:3000/api/test')
-      .pipe(
-        catchError(this.handleError('getFlightSimulatorResponseObjects', {}))
       );
   }
 }

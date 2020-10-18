@@ -1,5 +1,5 @@
 import { ServerResponse } from './../src/app/shared/models/dto/serverResponse';
-
+const bodyParser = require('body-parser');
 const express = require('express');
 const app = express();
 // const port = process.env.PORT || port;
@@ -10,6 +10,8 @@ const app = express();
 //   res.sendFile(`index.html`, { root: www });
 // });
 // app.listen(port, () => console.log(`listening on http://localhost:${port}`));
+
+// header
 app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader(
@@ -23,7 +25,11 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/api/test',(req, res, next) => {
+app.post('/api/test', (req, res, next) => {
+  console.log('post', req.body);
+});
+
+app.get('/api/test', (req, res, next) => {
   const response: ServerResponse = { info: 'd', id: 1, message: 'asdf', responseList: [], responseObject: {}, status: '200' };
   return res.status(200).json(
     response

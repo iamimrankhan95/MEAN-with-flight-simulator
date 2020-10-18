@@ -36,23 +36,17 @@ export class FlightListComponent implements OnInit {
   ngOnInit(): void {
     this.route.queryParams.subscribe(
       (params: Params) => {
-        // this.ngxLoader.start();
-        // this.flightSimulatorRequest.DepartureAirportCode = params['DepartureAirportCode'] ? params['DepartureAirportCode'] : '';
-        // this.flightSimulatorRequest.ArrivalAirportCode = params['ArrivalAirportCode'] ? params['ArrivalAirportCode'] : '';
-        // this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
-        // this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
-        // this.flightSimulatorHttpService.getFlightSimulatorResponseObjects(this.flightSimulatorRequest)
-        //   .subscribe(
-        //     (flightSimulatorResponseObject: FlightSimulatorResponseObject[]) => {
-        //       this.flightSimulatorService.flights = flightSimulatorResponseObject;
-        //       this.filteredFlights = flightSimulatorResponseObject;
-        //       this.ngxLoader.stop();
-        //     }
-        //   );
-        this.flightSimulatorHttpService.test(this.flightSimulatorRequest)
+        this.ngxLoader.start();
+        this.flightSimulatorRequest.DepartureAirportCode = params['DepartureAirportCode'] ? params['DepartureAirportCode'] : '';
+        this.flightSimulatorRequest.ArrivalAirportCode = params['ArrivalAirportCode'] ? params['ArrivalAirportCode'] : '';
+        this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
+        this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
+        this.flightSimulatorHttpService.getFlightSimulatorResponseObjects(this.flightSimulatorRequest)
           .subscribe(
-            (as: any) => {
-
+            (flightSimulatorResponseObject: FlightSimulatorResponseObject[]) => {
+              this.flightSimulatorService.flights = flightSimulatorResponseObject;
+              this.filteredFlights = flightSimulatorResponseObject;
+              this.ngxLoader.stop();
             }
           );
       }
