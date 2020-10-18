@@ -1,4 +1,5 @@
 export interface IFlight {
+  Id: string;
   AirlineLogoAddress: string; // "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif",
   AirlineName: string; // "China Southern Airlines",
   InboundFlightsDuration: string; // "24:10",

@@ -1,6 +1,6 @@
 import { ServerResponse } from './../src/app/shared/models/dto/serverResponse';
 const bodyParser = require('body-parser');
-const express = require('express');
+import * as express from 'express'
 const app = express();
 // const port = process.env.PORT || port;
 // const www = process.env.WWW || './';
