@@ -30,7 +30,9 @@ app.post('/api/test', (req, res, next) => {
 });
 // O4erKVjU1cpfH2iG
 app.get('/api/test', (req, res, next) => {
-  const response: ServerResponse = { info: 'd', id: 1, message: 'asdf', responseList: [], responseObject: {}, status: '200' };
+  const response: ServerResponse = {
+    message: 'asdf', data: [], paginationObject: {}, status: '200'
+  };
   return res.status(200).json(
     response
   );

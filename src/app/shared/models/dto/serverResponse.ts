@@ -1,8 +1,10 @@
 export interface ServerResponse {
-    status: string;
-    message: String;
-    id: number;
-    responseObject: any;
-    responseList: any;
-    info: String;
+  status: string;
+  message: String;
+  data: any;
+  paginationObject: {
+    total: number;
+    pageNo: number;
+    pageSize: number;
+  } | any;
 }
