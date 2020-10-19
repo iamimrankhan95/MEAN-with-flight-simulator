@@ -77,12 +77,12 @@ app.get('/api/flight', async (req, res, next) => {
   );
 });
 
-app.delete('/api/flight', async (req, res, next) => {
+app.delete('/api/flight/:id', async (req, res, next) => {
   const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
-  const flights = await Flight.find({});
-  response.data = flights;
+  const flights = await Flight.deleteOne({ _id: req.params.id });
+  response.message = 'Flight deleted successfully';
   return res.status(200).json(
     response
   );

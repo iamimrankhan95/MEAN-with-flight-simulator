@@ -1,3 +1,4 @@
+import { ServerResponse } from './../../../shared/models/dto/serverResponse';
 import { IFlight } from './../../../shared/models/flight.model';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, Params } from '@angular/router';
@@ -43,17 +44,20 @@ export class FlightListComponent implements OnInit {
         this.flightSimulatorRequest.ArrivalAirportCode = params['ArrivalAirportCode'] ? params['ArrivalAirportCode'] : '';
         this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
         this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
-        this.flightSimulatorHttpService.getFlights(this.flightSimulatorRequest)
-          .pipe(finalize(() => this.ngxLoader.stop()))
-          .subscribe(
-            (flights: IFlight[]) => {
-              this.flightSimulatorService.flights = flights;
-              this.filteredFlights = flights;
-              console.log(this.filteredFlights);
-            }
-          );
+        this.getFlights();
       }
     );
+  }
+  getFlights() {
+    this.flightSimulatorHttpService.getFlights(this.flightSimulatorRequest)
+      .pipe(finalize(() => this.ngxLoader.stop()))
+      .subscribe(
+        (flights: IFlight[]) => {
+          this.flightSimulatorService.flights = flights;
+          this.filteredFlights = flights;
+          console.log(this.filteredFlights);
+        }
+      );
   }
 
   filter() {
@@ -64,5 +68,13 @@ export class FlightListComponent implements OnInit {
   clearFilter() {
     this.maxAmount = this.minAmount = null;
     this.filteredFlights = this.flightSimulatorService.flights;
+  }
+
+  onDelete(id) {
+    this.flightSimulatorHttpService.deleteFlight(id)
+      .subscribe((res: ServerResponse) => {
+        this.toastr.success(res.message, 'success');
+        this.getFlights();
+      });
   }
 }

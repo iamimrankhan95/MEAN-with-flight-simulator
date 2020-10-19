@@ -53,15 +53,15 @@
                   <mfDefaultSorter by="AirlineName">Airline Name <i class="fa fa-sort"></i></mfDefaultSorter>
                 </th>
                 <th style="width: 10%">
-                  <mfDefaultSorter by="OutboundFlightsDuration">Outbound flight duration <i class="fa fa-sort"></i>
+                  <mfDefaultSorter by="OutboundFlightsDuration">Outbound duration <i class="fa fa-sort"></i>
                   </mfDefaultSorter>
                 </th>
                 <th style="width: 20%">
-                  <mfDefaultSorter by="InboundFlightsDuration">Inbound flight duration <i class="fa fa-sort"></i>
+                  <mfDefaultSorter by="InboundFlightsDuration">Inbound duration <i class="fa fa-sort"></i>
                   </mfDefaultSorter>
                 </th>
                 <th style="width: 10%">
-                  <mfDefaultSorter by="TotalAmount">Total amount in USD <i class="fa fa-sort"></i></mfDefaultSorter>
+                  <mfDefaultSorter by="TotalAmount">Total amount (USD) <i class="fa fa-sort"></i></mfDefaultSorter>
                 </th>
                 <th style="width: 20%">
                   <mfDefaultSorter by="city">Action</mfDefaultSorter>
@@ -78,6 +78,9 @@
                 <td>
                   <button type="button" class="btn btn-sm btn-primary">
                     <span>Details</span>&nbsp;
+                  </button>
+                  <button type="button" class="btn btn-sm btn-danger" (click)="onDelete(item.Id)">
+                    <span>Delete</span>&nbsp;
                   </button>
               </tr>
             </tbody>

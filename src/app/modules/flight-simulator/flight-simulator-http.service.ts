@@ -23,6 +23,7 @@ const httpOptions = {
   providedIn: 'root'
 })
 export class FlightSimulatorHttpService {
+
   private handleError: HandleError;
 
   constructor(
@@ -61,6 +62,13 @@ export class FlightSimulatorHttpService {
       this.flightSimulatorService.ConvertToFlightDto(flightFormValue))
       .pipe(
         catchError(this.handleError('createFlight', {}))
+      );
+  }
+
+  deleteFlight(id: any) {
+    return this.http.delete<ServerResponse>('http://localhost:3000' + applicationUrl.flight.create + '/' + id)
+      .pipe(
+        catchError(this.handleError('deleteFlight', {}))
       );
   }
 }
