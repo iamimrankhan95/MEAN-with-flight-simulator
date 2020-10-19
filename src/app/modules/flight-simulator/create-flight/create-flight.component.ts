@@ -1,3 +1,4 @@
+import { ServerResponse } from './../../../shared/models/dto/serverResponse';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, Validators } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
@@ -59,7 +60,13 @@ export class CreateFlightComponent implements OnInit {
     const flightFormValue = this.flightFrm.value;
 
     this.flightSimulatorHttpService.createFlight(flightFormValue)
-      .subscribe();
+      .subscribe(
+        (res: ServerResponse) => {
+          console.log('asdf');
+          this.toastr.success(res.message, 'Success');
+          this.router.navigate(['../list'], { relativeTo: this.route });
+        }
+      );
   }
 
 }

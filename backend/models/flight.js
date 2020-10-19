@@ -2,11 +2,11 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const flightSchema = new Schema({
-  AirlineLogoAddress: { type: String },
+  AirlineLogoAddress: { type: String, default: "http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif" },
   AirlineName: { type: String, required: true },
-  InboundFlightsDuration: { type: Number },
+  InboundFlightsDuration: { type: String, default: '21:00' },
   ItineraryId: { type: Number },
-  OutboundFlightsDuration: { type: String },
+  OutboundFlightsDuration: { type: String, default: '22:22' },
   Stops: { type: Number, required: true },
   TotalAmount: { type: Number, required: true },
   DepartureAirportCode: { type: String, required: true },

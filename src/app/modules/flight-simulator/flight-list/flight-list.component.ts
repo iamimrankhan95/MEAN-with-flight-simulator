@@ -6,6 +6,7 @@ import { FlightSimulatorService } from '../flight-simulator.service';
 import { FlightSimulatorRequest } from '../../../shared/models/dto/flight-simulator-request.dto';
 import { FlightSimulatorResponseObject } from '../../../shared/models/dto/flight-simulator-response.dto';
 import { NgxUiLoaderService } from 'ngx-ui-loader';
+import { finalize } from 'rxjs/operators';
 
 @Component({
   selector: 'app-flight-list',
@@ -42,11 +43,11 @@ export class FlightListComponent implements OnInit {
         this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
         this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
         this.flightSimulatorHttpService.getFlightSimulatorResponseObjects(this.flightSimulatorRequest)
+          .pipe(finalize(() => this.ngxLoader.stop()))
           .subscribe(
             (flightSimulatorResponseObject: FlightSimulatorResponseObject[]) => {
               this.flightSimulatorService.flights = flightSimulatorResponseObject;
               this.filteredFlights = flightSimulatorResponseObject;
-              this.ngxLoader.stop();
             }
           );
       }

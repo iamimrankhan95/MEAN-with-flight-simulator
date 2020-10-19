@@ -1,6 +1,6 @@
 export interface ServerResponse {
   status: string;
-  message: String;
+  message: string;
   data: any;
   paginationObject: {
     total: number;

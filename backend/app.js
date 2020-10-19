@@ -57,6 +57,13 @@ app.post('/api/flight', (req, res, next) => {
   flight.save();
   console.log('flight: ', flight);
   console.log('----: ');
+  const response = {
+    message: 'asdf', data: [], paginationObject: {}, status: '200'
+  };
+  response.message = 'saved successfully!'
+  return res.status(200).json(
+    response
+  );
 });
 
 app.get('/api/flight', async (req, res, next) => {
