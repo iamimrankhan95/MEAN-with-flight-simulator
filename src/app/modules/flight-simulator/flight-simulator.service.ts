@@ -31,7 +31,7 @@ export class FlightSimulatorService {
 
   ConvertToFlightDto(flight: any): IFlightDto {
     return {
-      '_Id': null,
+      '_id': null,
       'AirlineLogoAddress': flight.AirlineLogoAddress,
       'AirlineName': flight.AirlineName,
       'InboundFlightsDuration': flight.InboundFlightsDuration,
@@ -52,7 +52,7 @@ export class FlightSimulatorService {
     const returnDate = new Date(flight.ReturnDate);
     const returnDateObj = {year: returnDate.getFullYear(), month: returnDate.getDate(), day: returnDate.getMonth() + 1};
     return {
-      'Id': flight._Id,
+      'Id': flight._id,
       'AirlineLogoAddress': flight.AirlineLogoAddress,
       'AirlineName': flight.AirlineName,
       'InboundFlightsDuration': flight.InboundFlightsDuration,

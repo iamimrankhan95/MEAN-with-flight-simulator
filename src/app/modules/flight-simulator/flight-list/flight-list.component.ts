@@ -1,3 +1,4 @@
+import { IFlight } from './../../../shared/models/flight.model';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, Params } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
@@ -45,9 +46,10 @@ export class FlightListComponent implements OnInit {
         this.flightSimulatorHttpService.getFlights(this.flightSimulatorRequest)
           .pipe(finalize(() => this.ngxLoader.stop()))
           .subscribe(
-            (flightSimulatorResponseObject: FlightSimulatorResponseObject[]) => {
-              this.flightSimulatorService.flights = flightSimulatorResponseObject;
-              this.filteredFlights = flightSimulatorResponseObject;
+            (flights: IFlight[]) => {
+              this.flightSimulatorService.flights = flights;
+              this.filteredFlights = flights;
+              console.log(this.filteredFlights);
             }
           );
       }

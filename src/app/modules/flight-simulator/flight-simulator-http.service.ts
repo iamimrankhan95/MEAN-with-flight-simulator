@@ -50,7 +50,7 @@ export class FlightSimulatorHttpService {
           console.log(res.data);
         }),
         map((serverResponse: ServerResponse) => {
-          return serverResponse.data;
+          return serverResponse.data.map(flight => this.flightSimulatorService.ConvertToFlightModel(flight));
         }),
         catchError(this.handleError('getFlightSimulatorResponseObjects', []))
       );
