@@ -1,3 +1,4 @@
+import { ServerResponse } from './../../shared/models/dto/serverResponse';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { HttpHeaders } from '@angular/common/http';
@@ -40,16 +41,16 @@ export class FlightSimulatorHttpService {
       .set('DepartureDate', (flightSimulatorRequest.DepartureDate))
       .set('ReturnDate', flightSimulatorRequest.ReturnDate);
 
-    return this.http.get<FlightSimulatorResponseObject[]>(applicationUrl.flightSimulator.read, { params })
+    return this.http.get<ServerResponse>('http://localhost:3000' + applicationUrl.flight.readList)
       .pipe(
-        tap((flightSimulatorResponseObjectList: FlightSimulatorResponseObject[]) => {
-          if (flightSimulatorResponseObjectList) {
-            this.toastr.success('Flight List loaded successfully!', 'Success')
+        tap((res: ServerResponse) => {
+          if (res.status) {
+            this.toastr.success('Flight List loaded successfully!', 'Success');
           }
-          console.log(flightSimulatorResponseObjectList);
+          console.log(res.data);
         }),
-        map((flightSimulatorResponseObjectList: FlightSimulatorResponseObject[]) => {
-          return flightSimulatorResponseObjectList;
+        map((serverResponse: ServerResponse) => {
+          return serverResponse.data;
         }),
         catchError(this.handleError('getFlightSimulatorResponseObjects', []))
       );

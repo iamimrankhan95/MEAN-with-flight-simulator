@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 mongoose
   .connect(
-    'mongodb+srv://iamimrankhan95:O4erKVjU1cpfH2iG@cluster0.ymxcc.mongodb.net/MEAN-with-flight-simulator?retryWrites=true&w=majority&', {useNewUrlParser: true, useUnifiedTopology: true}
+    'mongodb+srv://iamimrankhan95:O4erKVjU1cpfH2iG@cluster0.ymxcc.mongodb.net/MEAN-with-flight-simulator?retryWrites=true&w=majority&', { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => {
     console.log('Connected to database!');
@@ -60,10 +60,12 @@ app.post('/api/flight', (req, res, next) => {
   console.log('----: ');
 });
 
-app.get('/api/test', (req, res, next) => {
+app.get('/api/flight', (req, res, next) => {
   const response: ServerResponse = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
+  // const flights = await Flight.find({});
+  // response.data = flights;
   return res.status(200).json(
     response
   );

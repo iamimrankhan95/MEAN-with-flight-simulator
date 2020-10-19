@@ -4,7 +4,8 @@ export const applicationUrl = {
   flightSimulator: {
     read: 'assets/flights.json',
   },
-  flight:{
+  flight: {
+    readList: '/api/flight',
     create: '/api/flight'
   }
 };
