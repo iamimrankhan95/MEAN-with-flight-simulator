@@ -60,13 +60,24 @@ app.post('/api/flight', (req, res, next) => {
   const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
-  response.message = 'saved successfully!'
+  response.message = 'saved successfully!';
   return res.status(200).json(
     response
   );
 });
 
 app.get('/api/flight', async (req, res, next) => {
+  const response = {
+    message: 'asdf', data: [], paginationObject: {}, status: '200'
+  };
+  const flights = await Flight.find({});
+  response.data = flights;
+  return res.status(200).json(
+    response
+  );
+});
+
+app.delete('/api/flight', async (req, res, next) => {
   const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };

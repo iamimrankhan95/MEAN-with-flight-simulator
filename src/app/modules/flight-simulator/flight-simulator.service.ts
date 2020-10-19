@@ -29,9 +29,9 @@ export class FlightSimulatorService {
     }
   }
 
-  flightConvertToDto(flight: any): IFlightDto {
+  ConvertToFlightDto(flight: any): IFlightDto {
     return {
-      'Id': null,
+      '_Id': null,
       'AirlineLogoAddress': flight.AirlineLogoAddress,
       'AirlineName': flight.AirlineName,
       'InboundFlightsDuration': flight.InboundFlightsDuration,
@@ -43,6 +43,27 @@ export class FlightSimulatorService {
       'ArrivalAirportCode': flight.ArrivalAirportCode,
       'DepartureDate': flight.DepartureDate.year + '/' + flight.DepartureDate.month + '/' + flight.DepartureDate.day,
       'ReturnDate': flight.ReturnDate.year + '/' + flight.ReturnDate.month + '/' + flight.ReturnDate.day,
-    }
+    };
+  }
+
+  ConvertToFlightModel(flight: IFlightDto): IFlight {
+    const depart = new Date(flight.DepartureDate);
+    const departObj = {year: depart.getFullYear(), month: depart.getDate(), day: depart.getMonth() + 1};
+    const returnDate = new Date(flight.ReturnDate);
+    const returnDateObj = {year: returnDate.getFullYear(), month: returnDate.getDate(), day: returnDate.getMonth() + 1};
+    return {
+      'Id': flight._Id,
+      'AirlineLogoAddress': flight.AirlineLogoAddress,
+      'AirlineName': flight.AirlineName,
+      'InboundFlightsDuration': flight.InboundFlightsDuration,
+      'ItineraryId': flight.ItineraryId,
+      'OutboundFlightsDuration': flight.OutboundFlightsDuration,
+      'Stops': flight.Stops,
+      'TotalAmount': flight.TotalAmount,
+      'DepartureAirportCode': flight.DepartureAirportCode,
+      'ArrivalAirportCode': flight.ArrivalAirportCode,
+      'DepartureDate': departObj,
+      'ReturnDate': returnDateObj,
+    };
   }
 }
