@@ -1,8 +1,7 @@
-import { ServerResponse } from './../src/app/shared/models/dto/serverResponse';
 const bodyParser = require('body-parser');
 const express = require('express');
 const app = express();
-const Flight = require('./models/flight.model');
+const Flight = require('./models/flight');
 const mongoose = require('mongoose');
 
 mongoose
@@ -60,11 +59,11 @@ app.post('/api/flight', (req, res, next) => {
   console.log('----: ');
 });
 
-app.get('/api/flight', (req, res, next) => {
-  const response: ServerResponse = {
+app.get('/api/flight', async(req, res, next) => {
+  const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
-  // const flights = await Flight.find({});
+  const flights = await Flight.find({});
   // response.data = flights;
   return res.status(200).json(
     response
