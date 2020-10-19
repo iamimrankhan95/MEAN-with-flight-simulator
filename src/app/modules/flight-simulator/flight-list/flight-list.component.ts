@@ -42,7 +42,7 @@ export class FlightListComponent implements OnInit {
         this.flightSimulatorRequest.ArrivalAirportCode = params['ArrivalAirportCode'] ? params['ArrivalAirportCode'] : '';
         this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
         this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
-        this.flightSimulatorHttpService.getFlightSimulatorResponseObjects(this.flightSimulatorRequest)
+        this.flightSimulatorHttpService.getFlights(this.flightSimulatorRequest)
           .pipe(finalize(() => this.ngxLoader.stop()))
           .subscribe(
             (flightSimulatorResponseObject: FlightSimulatorResponseObject[]) => {

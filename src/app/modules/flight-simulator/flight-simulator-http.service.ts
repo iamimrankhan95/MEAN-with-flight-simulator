@@ -34,7 +34,7 @@ export class FlightSimulatorHttpService {
     this.handleError = httpErrorHandler.createHandleError('FlightSimulatorHttpService');
   }
 
-  getFlightSimulatorResponseObjects(flightSimulatorRequest: FlightSimulatorRequest): Observable<FlightSimulatorResponseObject[]> {
+  getFlights(flightSimulatorRequest: FlightSimulatorRequest): Observable<FlightSimulatorResponseObject[]> {
     let params = new HttpParams()
       .set('DepartureAirportCode', (flightSimulatorRequest.DepartureAirportCode))
       .set('ArrivalAirportCode', flightSimulatorRequest.ArrivalAirportCode)
