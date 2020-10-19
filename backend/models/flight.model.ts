@@ -1,12 +1,12 @@
-import mongoose from 'mongoose';
+const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const flightSchema = new Schema({
   AirlineLogoAddress: { type: String },
   AirlineName: { type: String, required: true },
-  InboundFlightsDuration: { type: Number, default: Date.now },
-  ItineraryId: { type: Number, default: Date.now },
-  OutboundFlightsDuration: { type: String, default: Date.now },
+  InboundFlightsDuration: { type: Number },
+  ItineraryId: { type: Number },
+  OutboundFlightsDuration: { type: String },
   Stops: { type: Number, required: true },
   TotalAmount: { type: Number, required: true },
   DepartureAirportCode: { type: String, required: true },
@@ -15,4 +15,4 @@ const flightSchema = new Schema({
   ReturnDate: { type: Date, required: true },
 });
 
-module.exports = mongoose.model('post', flightSchema)
+module.exports = mongoose.model('Flight', flightSchema);

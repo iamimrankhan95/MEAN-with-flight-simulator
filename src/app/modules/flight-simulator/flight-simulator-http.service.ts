@@ -54,4 +54,11 @@ export class FlightSimulatorHttpService {
         catchError(this.handleError('getFlightSimulatorResponseObjects', []))
       );
   }
+
+  createFlight(flightFormValue: any) {
+    return this.http.post<FlightSimulatorResponseObject[]>('http://localhost:3000' + applicationUrl.flight.create, flightFormValue)
+      .pipe(
+        catchError(this.handleError('createFlight', []))
+      );
+  }
 }

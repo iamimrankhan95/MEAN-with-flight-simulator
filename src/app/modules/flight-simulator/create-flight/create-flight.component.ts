@@ -58,15 +58,8 @@ export class CreateFlightComponent implements OnInit {
 
     const flightFormValue = this.flightFrm.value;
 
-    this.router.navigate(['list'], {
-      relativeTo: this.route,
-      queryParams: {
-        DepartureAirportCode: flightFormValue.DepartureAirportCode,
-        ArrivalAirportCode: flightFormValue.ArrivalAirportCode,
-        DepartureDate: flightFormValue.DepartureDate,
-        ReturnDate: flightFormValue.DepartureDate,
-      }
-    });
+    this.flightSimulatorHttpService.createFlight(flightFormValue)
+      .subscribe();
   }
 
 }
