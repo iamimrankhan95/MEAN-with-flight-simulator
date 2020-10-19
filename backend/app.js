@@ -59,12 +59,12 @@ app.post('/api/flight', (req, res, next) => {
   console.log('----: ');
 });
 
-app.get('/api/flight', async(req, res, next) => {
+app.get('/api/flight', async (req, res, next) => {
   const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
   const flights = await Flight.find({});
-  // response.data = flights;
+  response.data = flights;
   return res.status(200).json(
     response
   );
