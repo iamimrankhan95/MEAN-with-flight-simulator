@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 mongoose
   .connect(
-    'mongodb+srv://iamimrankhan95:O4erKVjU1cpfH2iG@cluster0.ymxcc.mongodb.net/Cluster0?retryWrites=true&w=majority&', {useNewUrlParser: true, useUnifiedTopology: true}
+    'mongodb+srv://iamimrankhan95:O4erKVjU1cpfH2iG@cluster0.ymxcc.mongodb.net/MEAN-with-flight-simulator?retryWrites=true&w=majority&', {useNewUrlParser: true, useUnifiedTopology: true}
   )
   .then(() => {
     console.log('Connected to database!');
@@ -55,6 +55,7 @@ app.post('/api/flight', (req, res, next) => {
     DepartureDate: req.body.DepartureDate,
     ReturnDate: req.body.ReturnDate,
   });
+  flight.save();
   console.log('flight: ', flight);
   console.log('----: ');
 });
