@@ -3,6 +3,18 @@ const bodyParser = require('body-parser');
 const express = require('express');
 const app = express();
 const Flight = require('./models/flight.model');
+const mongoose = require('mongoose');
+
+mongoose
+  .connect(
+    'mongodb+srv://iamimrankhan95:O4erKVjU1cpfH2iG@cluster0.ymxcc.mongodb.net/Cluster0?retryWrites=true&w=majority&', {useNewUrlParser: true, useUnifiedTopology: true}
+  )
+  .then(() => {
+    console.log('Connected to database!');
+  })
+  .catch(() => {
+    console.log('Connection failed!');
+  });
 // const port = process.env.PORT || port;
 // const www = process.env.WWW || './';
 // app.use(express.static(www));
@@ -40,13 +52,13 @@ app.post('/api/flight', (req, res, next) => {
     TotalAmount: req.body.TotalAmount,
     DepartureAirportCode: req.body.DepartureAirportCode,
     ArrivalAirportCode: req.body.ArrivalAirportCode,
-    DepartureDate: new Date('2016-10-05T14:48:00.000'),
-    ReturnDate: new Date(req.body.ReturnDate),
+    DepartureDate: req.body.DepartureDate,
+    ReturnDate: req.body.ReturnDate,
   });
   console.log('flight: ', flight);
   console.log('----: ');
 });
-// O4erKVjU1cpfH2iG
+
 app.get('/api/test', (req, res, next) => {
   const response: ServerResponse = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'

@@ -56,7 +56,8 @@ export class FlightSimulatorHttpService {
   }
 
   createFlight(flightFormValue: any) {
-    return this.http.post<FlightSimulatorResponseObject[]>('http://localhost:3000' + applicationUrl.flight.create, flightFormValue)
+    return this.http.post<FlightSimulatorResponseObject[]>('http://localhost:3000' + applicationUrl.flight.create,
+      this.flightSimulatorService.flightConvertToDto(flightFormValue))
       .pipe(
         catchError(this.handleError('createFlight', []))
       );
