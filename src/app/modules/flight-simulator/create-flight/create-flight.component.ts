@@ -59,14 +59,7 @@ export class CreateFlightComponent implements OnInit {
 
     const flightFormValue = this.flightFrm.value;
 
-    this.flightSimulatorHttpService.createFlight(flightFormValue)
-      .subscribe(
-        (res: ServerResponse) => {
-          console.log('asdf');
-          this.toastr.success(res.message, 'Success');
-          this.router.navigate(['../list'], { relativeTo: this.route });
-        }
-      );
+    this.flightSimulatorService.createFlight(flightFormValue);
   }
 
 }

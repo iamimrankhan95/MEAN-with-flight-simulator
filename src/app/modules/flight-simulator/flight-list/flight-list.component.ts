@@ -7,7 +7,6 @@ import { FlightSimulatorHttpService } from '../flight-simulator-http.service';
 import { FlightSimulatorService } from '../flight-simulator.service';
 import { FlightSimulatorRequest } from '../../../shared/models/dto/flight-simulator-request.dto';
 import { FlightSimulatorResponseObject } from '../../../shared/models/dto/flight-simulator-response.dto';
-import { NgxUiLoaderService } from 'ngx-ui-loader';
 import { finalize } from 'rxjs/operators';
 
 @Component({
@@ -27,7 +26,7 @@ export class FlightListComponent implements OnInit {
     private router: Router, private toastr: ToastrService,
     private flightSimulatorHttpService: FlightSimulatorHttpService,
     private flightSimulatorService: FlightSimulatorService,
-    private ngxLoader: NgxUiLoaderService) {
+  ) {
     this.flightSimulatorRequest = {
       DepartureAirportCode: '',
       ArrivalAirportCode: '',
@@ -39,25 +38,20 @@ export class FlightListComponent implements OnInit {
   ngOnInit(): void {
     this.route.queryParams.subscribe(
       (params: Params) => {
-        this.ngxLoader.start();
         this.flightSimulatorRequest.DepartureAirportCode = params['DepartureAirportCode'] ? params['DepartureAirportCode'] : '';
         this.flightSimulatorRequest.ArrivalAirportCode = params['ArrivalAirportCode'] ? params['ArrivalAirportCode'] : '';
         this.flightSimulatorRequest.DepartureDate = params['DepartureDate'] ? params['DepartureDate'] : '';
         this.flightSimulatorRequest.ReturnDate = params['ReturnDate'] ? params['ReturnDate'] : '';
-        this.getFlights();
+
+        this.flightSimulatorService.getFlights(this.flightSimulatorRequest);
+        this.flightSimulatorService.getFlightUpdateListener().subscribe(
+          flights => {
+            this.flightSimulatorService.flights = flights;
+            this.filteredFlights = flights;
+          }
+        )
       }
     );
-  }
-  getFlights() {
-    this.flightSimulatorHttpService.getFlights(this.flightSimulatorRequest)
-      .pipe(finalize(() => this.ngxLoader.stop()))
-      .subscribe(
-        (flights: IFlight[]) => {
-          this.flightSimulatorService.flights = flights;
-          this.filteredFlights = flights;
-          console.log(this.filteredFlights);
-        }
-      );
   }
 
   filter() {
@@ -71,10 +65,6 @@ export class FlightListComponent implements OnInit {
   }
 
   onDelete(id) {
-    this.flightSimulatorHttpService.deleteFlight(id)
-      .subscribe((res: ServerResponse) => {
-        this.toastr.success(res.message, 'success');
-        this.getFlights();
-      });
+    this.flightSimulatorService.deleteFlight(id, this.flightSimulatorRequest);
   }
 }

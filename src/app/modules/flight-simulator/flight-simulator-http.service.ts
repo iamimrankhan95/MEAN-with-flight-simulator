@@ -1,3 +1,4 @@
+import { IFlightDto } from './../../shared/models/dto/flight.dto';
 import { ServerResponse } from './../../shared/models/dto/serverResponse';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
@@ -11,6 +12,7 @@ import { ToastrService } from 'ngx-toastr';
 import { FlightSimulatorResponseObject } from '../../shared/models/dto/flight-simulator-response.dto';
 import { FlightSimulatorService } from './flight-simulator.service';
 import { FlightSimulatorRequest } from '../../shared/models/dto/flight-simulator-request.dto';
+import { data } from 'jquery';
 
 const httpOptions = {
   headers: new HttpHeaders({
@@ -29,13 +31,11 @@ export class FlightSimulatorHttpService {
   constructor(
     private http: HttpClient,
     httpErrorHandler: HttpErrorHandler,
-    private toastr: ToastrService,
-    private flightSimulatorService: FlightSimulatorService
   ) {
     this.handleError = httpErrorHandler.createHandleError('FlightSimulatorHttpService');
   }
 
-  getFlights(flightSimulatorRequest: FlightSimulatorRequest): Observable<FlightSimulatorResponseObject[]> {
+  getFlights(flightSimulatorRequest: FlightSimulatorRequest): Observable<ServerResponse> {
     let params = new HttpParams()
       .set('DepartureAirportCode', (flightSimulatorRequest.DepartureAirportCode))
       .set('ArrivalAirportCode', flightSimulatorRequest.ArrivalAirportCode)
@@ -43,25 +43,15 @@ export class FlightSimulatorHttpService {
       .set('ReturnDate', flightSimulatorRequest.ReturnDate);
 
     return this.http.get<ServerResponse>('http://localhost:3000' + applicationUrl.flight.readList)
-      .pipe(
-        tap((res: ServerResponse) => {
-          if (res.status) {
-            this.toastr.success('Flight List loaded successfully!', 'Success');
-          }
-          console.log(res.data);
-        }),
-        map((serverResponse: ServerResponse) => {
-          return serverResponse.data.map(flight => this.flightSimulatorService.ConvertToFlightModel(flight));
-        }),
-        catchError(this.handleError('getFlightSimulatorResponseObjects', []))
-      );
+      .pipe(catchError(this.handleError('getFlightSimulatorResponseObjects', new ServerResponse([]))));
   }
 
-  createFlight(flightFormValue: any) {
-    return this.http.post<ServerResponse>('http://localhost:3000' + applicationUrl.flight.create,
-      this.flightSimulatorService.ConvertToFlightDto(flightFormValue))
-      .pipe(
-        catchError(this.handleError('createFlight', {}))
+  createFlight(flightFormValue: any): Observable<ServerResponse> {
+    return this.http.post<ServerResponse>('http://localhost:3000' + applicationUrl.flight.create, flightFormValue)
+      .pipe(map((serverResponse: ServerResponse) => {
+        return serverResponse.data;
+      }),
+        catchError(this.handleError('createFlight', new ServerResponse(null)))
       );
   }
 

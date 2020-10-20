@@ -81,7 +81,8 @@ app.delete('/api/flight/:id', async (req, res, next) => {
   const response = {
     message: 'asdf', data: [], paginationObject: {}, status: '200'
   };
-  const flights = await Flight.deleteOne({ _id: req.params.id });
+  const flight = await Flight.deleteOne({ _id: req.params.id });
+  console.log(flight);
   response.message = 'Flight deleted successfully';
   return res.status(200).json(
     response
