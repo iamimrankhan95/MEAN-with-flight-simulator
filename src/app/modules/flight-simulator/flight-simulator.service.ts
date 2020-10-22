@@ -39,7 +39,7 @@ export class FlightSimulatorService {
     this.flightSimulatorHttpService.getFlights(flightSimulatorRequest)
       .pipe(finalize(() => this.ngxLoader.stop()),
         map((res: ServerResponse) => {
-          return res.data.length > 0 ? res.data.map(flightDto => this.ConvertToFlightModel(flightDto)) : [];
+          return res.data.length > 0 ? res.data.map(flightDto => this.ConvertToFlightModel(flightDto)) : res.data;
         }))
       .subscribe((flights: IFlight[]) => {
         this._flights = flights;

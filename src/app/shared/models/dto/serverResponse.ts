@@ -1,5 +1,5 @@
 export class ServerResponse {
-  constructor(data = null,) {
+  constructor(data = null) {
     this.data = data;
   }
   status: string;
