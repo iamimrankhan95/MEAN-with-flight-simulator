@@ -1,3 +1,5 @@
+import * as FlightActions from './flight.actions';
+
 const initialState = {
   flights: [{
     'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif',
@@ -66,6 +68,15 @@ const initialState = {
   }]
 };
 
-export function flightReducer(state, action) {
+export function flightReducer(state = initialState, action: FlightActions.AddFlight) {
+  switch (action.type) {
+    case FlightActions.actions.ADD_FLIGHT:
+      return {
+        ...state,
+        flights: [...state.flights, action.payload]
+      };
 
+    default:
+      return state;
+  }
 }

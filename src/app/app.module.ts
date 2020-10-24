@@ -39,6 +39,8 @@ import { NgxUiLoaderModule } from 'ngx-ui-loader';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient } from '@angular/common/http';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
+import { StoreModule } from '@ngrx/store';
+import { flightReducer } from './modules/flight-simulator/store/flight.reducer';
 @NgModule({
   imports: [
     BrowserModule,
@@ -61,7 +63,8 @@ import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
       timeOut: 3000,
       positionClass: 'toast-top-right',
       preventDuplicates: true,
-    }) // ToastrModule added
+    }), // ToastrModule added
+    StoreModule.forRoot({ flights: flightReducer })
   ],
   declarations: [
     AppComponent,
