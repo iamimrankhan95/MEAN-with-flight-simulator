@@ -16,6 +16,71 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class FlightSimulatorService {
 
+  public Initflights = [  {
+    'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/CZ.gif',
+    'AirlineName': 'China Southern Airlines',
+    'InboundFlightsDuration': '24:10',
+    'ItineraryId': '',
+    'OutboundFlightsDuration': '26:20',
+    'Stops': 2,
+    'TotalAmount': 2903.84,
+    'DepartureAirportCode': 'DHK',
+    'ArrivalAirportCode': 'CHT',
+    'DepartureDate': '2012-12-24T00:00:00+11:00',
+    'ReturnDate': '2013-01-03T00:00:00+11:00'
+  },
+  {
+    'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif',
+    'AirlineName': 'Emirates Airline',
+    'InboundFlightsDuration': '42:55',
+    'ItineraryId': '',
+    'OutboundFlightsDuration': '25:40',
+    'Stops': 2,
+    'TotalAmount': 2954.14,
+    'DepartureAirportCode': 'DHK',
+    'ArrivalAirportCode': 'CHT',
+    'DepartureDate': '2012-12-24T00:00:00+11:00',
+    'ReturnDate': '2013-01-03T00:00:00+11:00'
+  },
+  {
+    'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif',
+    'AirlineName': 'Emirates Airline',
+    'InboundFlightsDuration': '42:55',
+    'ItineraryId': '',
+    'OutboundFlightsDuration': '27:40',
+    'Stops': 2,
+    'TotalAmount': 2954.14,
+    'DepartureAirportCode': 'DHK',
+    'ArrivalAirportCode': 'CHT',
+    'DepartureDate': '2012-12-24T00:00:00+11:00',
+    'ReturnDate': '2013-01-03T00:00:00+11:00'
+  },
+  {
+    'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/MultiAirline.gif',
+    'AirlineName': 'Multi',
+    'InboundFlightsDuration': '34:00',
+    'ItineraryId': '',
+    'OutboundFlightsDuration': '26:20',
+    'Stops': 2,
+    'TotalAmount': 2979.06,
+    'DepartureAirportCode': 'DHK',
+    'ArrivalAirportCode': 'CHT',
+    'DepartureDate': '2012-12-24T00:00:00+11:00',
+    'ReturnDate': '2013-01-03T00:00:00+11:00'
+  },
+  {
+    'AirlineLogoAddress': 'http://nmflightapi.azurewebsites.net/Images/AirlineLogo/EK.gif',
+    'AirlineName': 'Emirates Airline',
+    'InboundFlightsDuration': '23:25',
+    'ItineraryId': '',
+    'OutboundFlightsDuration': '25:40',
+    'Stops': 2,
+    'TotalAmount': 3006.14,
+    'DepartureAirportCode': 'DHK',
+    'ArrivalAirportCode': 'CHT',
+    'DepartureDate': '2012-12-24T00:00:00+11:00',
+    'ReturnDate': '2013-01-03T00:00:00+11:00'
+  }];
   private _flightUpdated = new Subject<IFlight[]>();
   private _flights: IFlight[] = [];
   constructor(private flightSimulatorHttpService: FlightSimulatorHttpService, private toastr: ToastrService,
@@ -42,7 +107,7 @@ export class FlightSimulatorService {
           return res.data.length > 0 ? res.data.map(flightDto => this.ConvertToFlightModel(flightDto)) : res.data;
         }))
       .subscribe((flights: IFlight[]) => {
-        this._flights = flights;
+        this._flights = this.Initflights;
         this._flightUpdated.next([...this._flights]);
       });
   }
@@ -95,7 +160,7 @@ export class FlightSimulatorService {
     const returnDate = new Date(flight.ReturnDate);
     const returnDateObj = { year: returnDate.getFullYear(), month: returnDate.getDate(), day: returnDate.getMonth() + 1 };
     return {
-      'Id': flight._id,
+      // 'Id': flight._id,
       'AirlineLogoAddress': flight.AirlineLogoAddress,
       'AirlineName': flight.AirlineName,
       'InboundFlightsDuration': flight.InboundFlightsDuration,

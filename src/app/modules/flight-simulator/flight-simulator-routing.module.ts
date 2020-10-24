@@ -5,7 +5,7 @@ import { FlightListComponent } from './flight-list/flight-list.component';
 import { CreateFlightComponent } from './create-flight/create-flight.component';
 
 const routes: Routes = [
-  { path: '', component: FlightSimulatorComponent },
+  { path: '', component: FlightListComponent },
   { path: 'list', component: FlightListComponent },
   { path: 'create', component: CreateFlightComponent },
 ];
