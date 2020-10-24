@@ -43,7 +43,8 @@
             </div>
           </div>
           <table class="table table-striped table-hover table-responsive-lg"
-            [mfData]="(filteredFlights|async).flights | dataFilter : filterQuery: 'AirlineName' " #mf="mfDataTable" [mfRowsOnPage]="10">
+            [mfData]="(filteredFlights|async).flights | dataFilter : filterQuery: 'AirlineName' " #mf="mfDataTable"
+            [mfRowsOnPage]="10">
             <thead>
               <tr>
                 <th style="width: 20%">

@@ -68,9 +68,14 @@ const initialState = {
   }]
 };
 
-export function flightReducer(state = initialState, action: FlightActions.AddFlight) {
+export function flightReducer(state = initialState, action: FlightActions.flightActionType) {
   switch (action.type) {
     case FlightActions.actions.ADD_FLIGHT:
+      return {
+        ...state,
+        flights: [...state.flights, action.payload]
+      };
+    case FlightActions.actions.ADD_FLIGHTS:
       return {
         ...state,
         flights: [...state.flights, action.payload]

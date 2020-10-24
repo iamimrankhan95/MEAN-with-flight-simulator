@@ -5,7 +5,9 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
 import { FlightSimulatorHttpService } from '../flight-simulator-http.service';
 import { FlightSimulatorService } from '../flight-simulator.service';
-
+import { IFlight } from '../../../shared/models/flight.model';
+import { Store } from '@ngrx/store';
+import * as FlightActions from '../store/flight.actions';
 @Component({
   selector: 'app-create-flight',
   templateUrl: './create-flight.component.html',
@@ -36,7 +38,8 @@ export class CreateFlightComponent implements OnInit {
     private router: Router,
     private toastr: ToastrService,
     private flightSimulatorHttpService: FlightSimulatorHttpService,
-    private flightSimulatorService: FlightSimulatorService
+    private flightSimulatorService: FlightSimulatorService,
+    private store: Store<{ flights: { flights: IFlight[] } }>
   ) { }
 
   ngOnInit(): void {
@@ -59,7 +62,8 @@ export class CreateFlightComponent implements OnInit {
 
     const flightFormValue = this.flightFrm.value;
 
-    this.flightSimulatorService.createFlight(flightFormValue);
+    this.store.dispatch(new FlightActions.AddFlight(flightFormValue));
+    // this.flightSimulatorService.createFlight(flightFormValue);
   }
 
 }
